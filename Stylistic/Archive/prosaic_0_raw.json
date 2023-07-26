@@ -1,0 +1,73 @@
+{
+    "id": "cmpl-5U7w4UBa9UmQWNRkpNuchQznViqrB",
+    "object": "text_completion",
+    "created": 1657862028,
+    "model": "text-davinci-002",
+    "choices": [
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nOf all the emotions that people experience, love is the most powerful. It can make people do things that they never thought possible. It can make people happy, even in the darkest of times.\n\nLove is something that everyone needs in their lives. It is what makes us feel complete. It is what gives us hope when we are lost. It is what makes us feel alive.\n\nWithout love, we would be nothing. We would be lost and alone in this world. Love is what makes us human. It is what makes us different from any other creatures on this earth.\n\nSo, if you have love in your life, cherish it. Hold it close to your heart. Never let it go, because it is the most precious thing that you will ever have.",
+            "index": 0,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nI love you. You're my everything. Without you I'm nothing. I need you. I want you. You're the air I breathe. You're my heart. You're my life. You're everything to me.",
+            "index": 1,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is a feeling of strong attachment or admiration and caring for someone or something.",
+            "index": 2,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is a feeling of strong attachment or admiration and caring for someone or something. It can also be used to describe how someone feels about an object, such as a parent\u2019s love for their child or a couple\u2019s love for each other. Love is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often physical and emotional, and is a source of comfort and security.",
+            "index": 3,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is something that everyone experiences at some point in their life. It is a strong emotion that can make people feel happy, sad, angry, or any other emotion. Love is something that can be good or bad, depending on the situation.",
+            "index": 4,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is something that you feel deep in your heart. It is a strong emotion that can make you feel happy, sad, angry, and everything in between. When you are in love, you are fully invested in the other person and care about their happiness just as much as your own. Love is something that you are always thinking about and wanting to be around. It can be all-consuming and make you feel like you are on top of the world.",
+            "index": 5,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is a feeling that everyone experiences at some point in their life. It is often described as a strong, passionate emotion that is all-consuming and can sometimes be overwhelming. Love can make you feel happy, sad, excited, and nervous all at the same time. It can be a wonderful and amazing experience, but it can also be painful and difficult. But no matter what, love is always worth fighting for.",
+            "index": 6,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is a strong, passionate emotion felt between two people who are attracted to each other. It is often described as a feeling of strong affection and requires both positive and negative aspects, such as patience and sacrifice. Love is often physical and emotional, and is a source of comfort and security.",
+            "index": 7,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is a feeling that is hard to put into words. It is a mix of happiness, sadness, excitement, and fear all rolled into one. When you are in love, you feel like you can conquer the world. You feel like nothing can bring you down. Love is a roller coaster ride that is full of ups and downs. But, in the end, it is worth it because you get to share your life with someone you care about.",
+            "index": 8,
+            "logprobs": null,
+            "finish_reason": "stop"
+        },
+        {
+            "text": "Write a passage about love with a prosaic writing style:\n\nLove is a feeling of strong attachment or admiration and caring for someone or something. It can also be described as a strong passion or desire. Love has many different meanings and can be felt in many different ways. It is often said that love is the most powerful emotion.",
+            "index": 9,
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 12,
+        "completion_tokens": 808,
+        "total_tokens": 820
+    }
+}

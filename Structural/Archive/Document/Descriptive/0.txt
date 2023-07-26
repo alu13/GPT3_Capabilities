@@ -1,0 +1,50 @@
+response 0:
+Write a short paragraph about birds:
+
+Birds are a type of animal that have wings and feathers. They use their wings to fly. Birds live in all parts of the world and come in many different sizes, colors, and shapes. Some birds can even talk!
+---------------------------
+response 1:
+Write a short paragraph about birds:
+
+Birds are one of the most popular types of animals in the world. They are known for their beauty and their ability to fly. Birds come in all different shapes and sizes, and they can be found in every corner of the world.
+---------------------------
+response 2:
+Write a short paragraph about birds:
+
+Birds are amazing creatures. They can fly high in the sky and sing beautiful songs. Some birds can even talk! Birds come in all sorts of colors and sizes, and they live in all sorts of places. There are more than 9,000 different kinds of birds in the world, and they are all fascinating in their own way.
+---------------------------
+response 3:
+Write a short paragraph about birds:
+
+Birds are a type of vertebrate animal distinguished by the possession of feathers, wings, and the ability to fly. Birds are the only animals with feathers, and they use them for insulation, for protection, and for flying. Birds have wings because they evolved from reptiles, which had wings. The ability to fly gave birds a great advantage in the struggle for survival and is the reason why there are so many different types of birds today.
+---------------------------
+response 4:
+Write a short paragraph about birds:
+
+Birds are a group of warm-blooded vertebrates constituting the class Aves, characterised by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live in nearly every habitat on Earth and are the most widespread of terrestrial vertebrates.
+---------------------------
+response 5:
+Write a short paragraph about birds:
+
+Birds are a type of vertebrate animal, characterized by feathers, toothless beaked jaws, the laying of hard-shelled eggs, a high metabolic rate, a four-chambered heart, and a strong yet lightweight skeleton. Birds live in almost every habitat on Earth and are the only animals with the ability to fly.
+---------------------------
+response 6:
+Write a short paragraph about birds:
+
+There are more than 10,000 species of birds in the world. They are found on every continent and in every type of habitat. Birds range in size from the tiny hummingbird to the huge ostrich. They have a variety of beaks and feathers, and can fly, swim, and run.
+---------------------------
+response 7:
+Write a short paragraph about birds:
+
+Birds are a type of vertebrate animal distinguished by the possession of feathers, wings, and the ability to fly. Birds are warm-blooded, lay eggs, and have a beak. There are around 10,000 different species of birds.
+---------------------------
+response 8:
+Write a short paragraph about birds:
+
+Birds are a type of vertebrate animal characterized by having feathers, wings, and the ability to fly. The first birds appeared during the Mesozoic Era, and today there are more than 10,000 different species of birds. Birds are found on every continent except for Antarctica, and they play important roles in the ecosystem by pollinating flowers, dispersing seeds, and controlling insect populations.
+---------------------------
+response 9:
+Write a short paragraph about birds:
+
+Birds are some of the most amazing creatures in the world. They can fly high into the sky and reach speeds of over 100 miles per hour. They can also migrate long distances, sometimes traveling thousands of miles. Birds have a keen sense of sight and hearing, and some can even imitate human speech. There are over 10,000 different species of birds, and they come in a wide variety of colors, shapes, and sizes.
+---------------------------

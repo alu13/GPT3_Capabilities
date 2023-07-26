@@ -1,0 +1,50 @@
+response 0:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity. He is also the founder of The Boring Company, a tunnel construction company.
+---------------------------
+response 1:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity. He is also the founder of The Boring Company, a tunnel construction company.
+---------------------------
+response 2:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors. He also founded SpaceX, and is now working on developing the Hyperloop.
+---------------------------
+response 3:
+Write a passage about Elon Musk that is concise:
+
+Elon Reeve Musk FRS (/ˈiːlɒn/ EE-lon; born June 28, 1971) is a business magnate, industrial designer, and engineer. He is the founder, CEO, CTO, and chief designer of SpaceX; early investor, CEO, and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI. A centibillionaire, Musk is one of the richest people in the world.
+---------------------------
+response 4:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is a business magnate, industrial designer, and engineer. He is the founder, CEO, CTO, and chief designer of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity. He is also the founder of The Boring Company, a tunnel construction company.
+---------------------------
+response 5:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors. He also founded SpaceX, and is now working on developing the Hyperloop.
+---------------------------
+response 6:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity. He is also the founder of The Boring Company, a tunnel construction company.
+---------------------------
+response 7:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is the founder, CEO and CTO of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity. He is also the founder of The Boring Company, a tunnel construction company.
+---------------------------
+response 8:
+Write a passage about Elon Musk that is concise:
+
+Elon Reeve Musk FRS (/ˈiːlɒn/ EE-lon; born June 28, 1971) is a business magnate, industrial designer, and engineer. He is the founder, CEO, CTO, and chief designer of SpaceX; early investor, CEO, and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI. A centibillionaire, Musk is one of the richest people in the world.
+---------------------------
+response 9:
+Write a passage about Elon Musk that is concise:
+
+Elon Musk is a business magnate, industrial designer, and engineer. He is the founder, CEO, CTO, and chief designer of SpaceX, co-founder of Tesla Motors, and chairman of SolarCity. He is also the founder of The Boring Company, a tunnel construction company.
+---------------------------

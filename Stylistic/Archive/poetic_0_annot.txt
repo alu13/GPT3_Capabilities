@@ -1,0 +1,17 @@
+0: Fail
+1: Fail
+2: Fail	
+3: Fail	
+4: Fail	
+5: Fail		
+6: Fail		
+7: Fail
+8: Fail		
+9: Fail	
+
+Success Ratio: 0 / 10 = 0
+
+Notes:
+*Poetic: similarly flowery language that uses a lot of literary devices.
+*Failure is that everything is a poem not a passage.
+*Note that a poem isn't a horrible response to this prompt. In fact, it may even be considered creative & impressive if it was 1 out of 10 instead of 10/10.

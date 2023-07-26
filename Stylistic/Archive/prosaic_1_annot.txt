@@ -1,0 +1,15 @@
+0: Success
+1: Success
+2: Success
+3: Fail
+4: Fail
+5: Fail	
+6: Fail	
+7: Fail
+8: Success /Bordering on Fail		
+9: Success
+
+Success Ratio: 5 / 10 = 0.5
+
+Notes:
+*Often on the border of non-prosaic. Complex syntax + simple content.

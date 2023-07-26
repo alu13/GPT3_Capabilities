@@ -1,0 +1,59 @@
+response 0:
+Write 10 words about bananas:
+
+yellow, sweet, nutritious, easy to eat, rich in potassium, grown in tropical regions, picked when green and allowed to ripen, often eaten as a snack
+---------------------------
+response 1:
+Write 10 words about bananas:
+
+Sweet, creamy, delicious, nutritious, filling, energizing, satisfying, easy to eat, portable, popular.
+---------------------------
+response 2:
+Write 10 words about bananas:
+
+Bananas are yellow, sweet, and nutritious. They contain vitamins, minerals, and fiber. They are a good source of energy and can be eaten as a snack or part of a meal. Bananas are also used in baking and can be made into ice cream and other desserts.
+---------------------------
+response 3:
+Write 10 words about bananas:
+
+Bananas are a fruit that are often eaten as a snack. They are sweet and have a yellow peel. Bananas are a good source of dietary potassium.
+---------------------------
+response 4:
+Write 10 words about bananas:
+
+delicious, sweet, nutritious, yellow, fruit, peel, monkey, breakfast, snack, dessert
+---------------------------
+response 5:
+Write 10 words about bananas:
+
+yellow, fruit, sweet, vitamin C, dietary fiber, potassium, magnesium, vitamin B6, sugar, carbs
+---------------------------
+response 6:
+Write 10 words about bananas:
+
+Sweet, delicious, nutritious, yellow, versatile, filling, easy to eat, portable, popular, affordable.
+---------------------------
+response 7:
+Write 10 words about bananas:
+
+Yellow, sweet, fruit, smoothie, banana bread, morning, snack, healthy, potassium
+---------------------------
+response 8:
+Write 10 words about bananas:
+
+Sweet, delicious, nutritious, yellow, soft, ripened, peeled, eaten as a snack or in a smoothie.
+---------------------------
+response 9:
+Write 10 words about bananas:
+
+1.Bananas are a type of fruit.
+2. Bananas are often eaten as a snack.
+3. Bananas are a good source of dietary potassium.
+4. Bananas are also a good source of dietary fiber.
+5. Bananas can be used in baking.
+6. Bananas can be used in smoothies.
+7. Bananas can be frozen and used as an ice cream topping.
+8. Bananas can be dried and used as a cereal topping.
+9. Bananas can be used as a natural sweetener in many recipes.
+10. Bananas are a healthy and nutritious food.
+---------------------------

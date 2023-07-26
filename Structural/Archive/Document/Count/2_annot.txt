@@ -1,0 +1,12 @@
+0: Fail.   11
+1: Fail.   12
+2: Success.
+3: Fail.   8
+4: Success. Same with 2
+5: Success
+6: Fail.   8 Same with 3
+7: Fail.   6
+8: Fail.   11
+9: Fail.   9
+
+Success Ratio: 3 / 10 = 0.3

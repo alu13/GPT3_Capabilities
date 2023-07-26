@@ -1,0 +1,16 @@
+0: Fail
+1: Fail
+2: Fail	
+3: Success	
+4: Fail	
+5: Fail		
+6: Fail		
+7: Fail
+8: Success		
+9: Fail	
+
+Success Ratio: 2 / 10 = 0.2
+
+Notes:
+*Ornate = extremely flowerly language. Some of this writing is straightforward/personal but not ornate. 
+*The successes are barefly successes. They will have like one ornate paragraph out of 3.

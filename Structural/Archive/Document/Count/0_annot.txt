@@ -1,0 +1,12 @@
+0: Fail.   Sentence instead of words.
+1: Success.
+2: Success.
+3: Fail.   Sentence instead of words.
+4: Success.
+5: Fail.   Sentence instead of words.
+6: Fail.   Sentence instead of words and 9 instead of 10.
+7: Fail.   Sentence instead of words.
+8: Success.
+9: Fail.   Sentence instead of words.
+
+Success Ratio: 4 / 10 = 0.4

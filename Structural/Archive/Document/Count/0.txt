@@ -1,0 +1,120 @@
+response 0:
+Write 10 words about birds:
+
+1. Birds are a type of animal.
+2. They have wings and can fly.
+3. Some birds can also swim.
+4. Birds have beaks and eat insects.
+5. Some birds are very colourful.
+6. Birds live in trees.
+7. Birds make nests.
+8. Birds lay eggs.
+9. Baby birds are called chicks.
+10. Some birds can talk.
+---------------------------
+response 1:
+Write 10 words about birds:
+
+1. Wings
+2. Fly
+3. Soar
+4. Flap
+5. Beak
+6. Feathers
+7. Tweet
+8. Chirp
+9. Nest
+10. Eggs
+---------------------------
+response 2:
+Write 10 words about birds:
+
+perching, tweeting, soaring, beaks, claws, eggs, nests, migration, flock, instinct
+---------------------------
+response 3:
+Write 10 words about birds:
+
+1.Birds are a type of animal.
+2.They have wings, which give them the ability to fly.
+3.They are covered in feathers, which help to keep them warm.
+4.Most birds eat insects, but some also eat fruit or seeds.
+5.Birds typically build nests in trees, where they can lay their eggs.
+6.Birds are often seen as symbols of freedom due to their ability to fly.
+7.There are over 10,000 different species of birds in the world.
+8.Birds are found on every continent, except for Antarctica.
+9.The smallest bird in the world is the bee hummingbird, which is just 2.5 inches long.
+10.The largest bird in the world is the ostrich, which can weigh up to 350 pounds.
+---------------------------
+response 4:
+Write 10 words about birds:
+
+elegant, graceful, agile, light, nimble, quick, delicate, dainty, lovely, pretty
+---------------------------
+response 5:
+Write 10 words about birds:
+
+1. Birds are flying animals with wings.
+2. They are often kept as pets.
+3. They come in many different colors.
+4. Birds can be found in many different habitats.
+5. Some birds can mimic human speech.
+6. Birds use their beaks to eat.
+7. Birds have a 4-chambered heart.
+8. The average lifespan of a bird is 10 years.
+9. There are approximately 10,000 different species of birds.
+10. The largest bird in the world is the ostrich.
+---------------------------
+response 6:
+Write 10 words about birds:
+
+I love birds because they are so beautiful and I enjoy watching them fly.
+
+Birds are a symbol of freedom and they remind me of the beauty of nature.
+
+I find birds fascinating and I am always amazed by their ability to fly.
+
+Birds are such elegant creatures and I am always in awe of their beauty.
+
+I enjoy listening to the sound of birds singing and it always brings a smile to my face.
+
+Birds are a joy to watch and I am always amazed by their beauty.
+
+I find birds very soothing and their presence always makes me feel calm.
+
+I am always in awe of the beauty of birds and I find them very mesmerizing.
+
+Birds always make me feel happy and they are one of my favorite things in nature.
+---------------------------
+response 7:
+Write 10 words about birds:
+
+1. Birds are a type of animal.
+2. They have wings, which give them the ability to fly.
+3. Birds are found in all parts of the world.
+4. They come in a variety of colors.
+5. Some birds can be very large, while others are quite small.
+6. Birds typically eat insects, but some also eat fruit or seeds.
+7. Birds often build nests in trees or on the ground.
+8. Some birds can mimic the sounds of other animals or humans.
+9. Birds are a popular subject of photography and bird watching.
+10. There are many different types of birds, including ducks, geese, sparrows, and eagles.
+---------------------------
+response 8:
+Write 10 words about birds:
+
+wing, beak, talon, plumage, egg, hatch, perch, migration, flock, soar
+---------------------------
+response 9:
+Write 10 words about birds:
+
+1. They are one of the most popular pets in the world.
+2. They are known for their beautiful singing voices.
+3. They come in a wide variety of colors and sizes.
+4. They are found in nearly every corner of the planet.
+5. They have a long and rich history with humans.
+6. Some people believe that they are lucky symbols.
+7. They are a common sight in many gardens and parks.
+8. They are often used as symbols of freedom.
+9. They have inspired artists and poets for centuries.
+10. They are truly amazing creatures.
+---------------------------

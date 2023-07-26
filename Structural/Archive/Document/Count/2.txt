@@ -1,0 +1,50 @@
+response 0:
+Write a sentence with ten words about birds:
+
+Birds are a type of animal that have wings and feathers.
+---------------------------
+response 1:
+Write a sentence with ten words about birds:
+
+Birds are a type of animal that have wings and can fly.
+---------------------------
+response 2:
+Write a sentence with ten words about birds:
+
+Birds are a type of animal with wings and feathers.
+---------------------------
+response 3:
+Write a sentence with ten words about birds:
+
+Birds are flying creatures with wings and feathers.
+---------------------------
+response 4:
+Write a sentence with ten words about birds:
+
+Birds are a type of animal with wings and feathers.
+---------------------------
+response 5:
+Write a sentence with ten words about birds:
+
+Birds are wonderful creatures that bring joy to many people.
+---------------------------
+response 6:
+Write a sentence with ten words about birds:
+
+Birds are flying creatures with wings and feathers.
+---------------------------
+response 7:
+Write a sentence with ten words about birds:
+
+Birds are flying animals with wings.
+---------------------------
+response 8:
+Write a sentence with ten words about birds:
+
+Birds are amazing creatures that can fly high in the sky.
+---------------------------
+response 9:
+Write a sentence with ten words about birds:
+
+Birds are amazing creatures that can fly and sing.
+---------------------------

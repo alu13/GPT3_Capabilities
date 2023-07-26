@@ -1,0 +1,15 @@
+0: Success
+1: Success
+2: Fail	
+3: Fail	
+4: Success	
+5: Fail		
+6: Success		
+7: Success
+8: Success		
+9: Success	
+
+Success Ratio: 7 / 10 = 0.7
+
+Notes:
+*Think about if this passage would seem natural in a straightforward, truthful conversation.

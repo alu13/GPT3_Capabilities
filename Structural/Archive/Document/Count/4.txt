@@ -1,0 +1,58 @@
+response 0:
+Write a paragraph with five sentences about birds:
+
+There are many different types of birds in the world. Some birds can fly and some cannot. Birds have feathers and beaks. Some birds eat insects and some eat seeds. Birds live in trees and in the sky.
+---------------------------
+response 1:
+Write a paragraph with five sentences about birds:
+
+There are many different types of birds in the world. Some birds can fly, while others cannot. Some birds are very small, while others are very large. Birds live in all kinds of habitats, including forests, deserts, and even the Arctic. Some birds eat insects, while others eat fruits or seeds.
+---------------------------
+response 2:
+Write a paragraph with five sentences about birds:
+
+There are more than 10,000 species of birds in the world. They are found on every continent and in every type of habitat. Birds have a number of adaptations that allow them to live in a wide range of environments. They can fly, which gives them the ability to travel long distances and to escape from predators. Birds also have feathers, which protect them from the cold and help them to fly. Some birds can even swim!
+---------------------------
+response 3:
+Write a paragraph with five sentences about birds:
+
+There are more than 10,000 species of birds in the world. They are found on every continent and in every habitat. Birds are unique among animals in several ways. They are the only animals that have feathers, and they use their feathers for flying. Birds also have beaks and claws, which they use for eating and perching. Some birds can also sing beautiful songs.
+---------------------------
+response 4:
+Write a paragraph with five sentences about birds:
+
+Birds are a type of vertebrate animal, and there are around 10,000 different species of them. They are characterized by having feathers, a beak, and wings, and are able to fly. Some birds can also swim and dive. Birds live in all types of habitats, including forests, deserts, and even the Arctic.
+---------------------------
+response 5:
+Write a paragraph with five sentences about birds:
+
+Birds are one of the oldest groups of terrestrial vertebrates and one of the most diverse, with over 10,000 living species. They are distinguished from other vertebrates by their feathers, which are unique among animals, and by their capacity for flight. Birds are found on every continent on Earth, including Antarctica. Most birds are diurnal, meaning they are active during the day, although some species are nocturnal. Birds are social creatures and often live in flocks.
+---------------------------
+response 6:
+Write a paragraph with five sentences about birds:
+
+Birds are some of the most beautiful creatures in nature. They come in a wide variety of colors, shapes, and sizes. Some birds can even mimic human speech.
+
+Birds are a very important part of the ecosystem. They help to pollinate plants and disperse seeds. They also control insect populations.
+
+Birds are a popular pet choice for many people. They are relatively easy to care for and can provide their owners with hours of enjoyment.
+
+Birds are also a popular choice for zoos and aviaries. They are a beautiful addition to these facilities and provide visitors with a chance to see a wide variety of species.
+
+Birds are amazing creatures that are enjoyed by humans and play an important role in the ecosystem.
+---------------------------
+response 7:
+Write a paragraph with five sentences about birds:
+
+Birds are one of the most popular groups of animals in the world. People love to watch birds, and many people keep birds as pets. There are more than 10,000 different kinds of birds in the world. That is more kinds of birds than there are kinds of mammals! Birds are interesting animals. They can fly, and they can sing. Some birds can even talk.
+---------------------------
+response 8:
+Write a paragraph with five sentences about birds:
+
+There are more than 10,000 species of birds in the world. They are found on every continent and in every type of habitat. Birds range in size from the tiny hummingbird to the huge ostrich. They have beaks and feathers, and most can fly. Birds are interesting and important animals.
+---------------------------
+response 9:
+Write a paragraph with five sentences about birds:
+
+Birds are one of the most popular pets in the world. They are gentle, loving creatures that can bring a lot of joy to their owners. However, they can also be a lot of work. Birds need a lot of attention and care, and they can be very messy. But for many people, the benefits of owning a bird outweigh the drawbacks.
+---------------------------

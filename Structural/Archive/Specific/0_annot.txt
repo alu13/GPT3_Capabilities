@@ -1,0 +1,12 @@
+0: Weak Success.    Runnable, but is wrong
+1: Fail.    Can't run, seems due to wrong indents
+2: Weak Success.    Runnable, some bugs
+3: Fail.    Can't run, Bad indents and missing funcs
+4: Weak Success.    Runnable, some bugs
+5: Fail.    Can't run, missing modules and wrong formatting?
+6: Fail.    Can't run, seems due to wrong indents similar to 1
+7: Weak Success.    Runnable, some bugs
+8: Weak Success.    Runnable, minor bugs
+9: Fail.    pseudocode
+
+Success Ratio: 0 (5) / 10 = 0 (0.5)

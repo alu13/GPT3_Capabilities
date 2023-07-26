@@ -1,0 +1,12 @@
+0: Fail.   Phrases instead of words, wrong counts (8?).
+1: (Weak) Success.   One phrase instead of word?
+2: Fail.    4 sentences
+3: Fail.   3 sentences.
+4: Success.
+5: (Weak) Success.   3 phrases instead of words?
+6: (Weak) Success.   One phrase instead of word?
+7: Fail.    8 words and 1 phrase (10 words in total?)
+8: Fail.    7 words and 1 sentence.
+9: Fail.   Sentence instead of words.
+
+Success Ratio: 4 / 10 = 0.4

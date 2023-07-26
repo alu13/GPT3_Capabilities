@@ -1,0 +1,17 @@
+0: Fail
+1: Success // loving/personal but simple structure
+2: Success 
+3: Success	
+4: Success
+5: Success
+6: Fail
+7: Fail
+8: Fail	
+9: Success //Bordering on fail
+
+Success Ratio: 6 / 10 = 0.6
+
+Notes:
+*Some passages border between prosaic/not-prosaic, but the fact that there is prosaic is positive.
+*Give benefit over doubt
+*i think a 5 point scale may be more arbitrary.

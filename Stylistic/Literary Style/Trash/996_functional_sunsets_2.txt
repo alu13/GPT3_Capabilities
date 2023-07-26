@@ -1,0 +1,50 @@
+response 0:
+Write a passage about sunsets with a functional writing style:
+
+The sun sets in the west and casts a beautiful orange hue in the sky. The colors are stunning and the view is breathtaking. Every sunset is different, but each one is just as beautiful as the last.
+---------------------------
+response 1:
+Write a passage about sunsets with a functional writing style:
+
+The sun is setting. The sky is red and orange. The clouds are pink. The sun is a big orange ball. It is setting behind the mountains. The air is cool and the breeze is blowing.
+---------------------------
+response 2:
+Write a passage about sunsets with a functional writing style:
+
+The sun sets in the west. The sky is a beautiful orange color. The sun is a big orange ball. The clouds are fluffy and white. The trees are tall and green. The wind is blowing. The sun is setting behind the mountains.
+---------------------------
+response 3:
+Write a passage about sunsets with a functional writing style:
+
+The sun was setting. The sky was red and orange. The clouds were pink. The sun was a ball of fire.
+---------------------------
+response 4:
+Write a passage about sunsets with a functional writing style:
+
+The sun sets in the west every day. It is a beautiful sight. The colors are amazing. The sky is a beautiful orange, pink, and purple. The sun sets at different times, depending on the time of year. The sunset is a time to relax and enjoy the beauty of nature.
+---------------------------
+response 5:
+Write a passage about sunsets with a functional writing style:
+
+The sun sets in the west and is a beautiful sight to behold. The colors are amazing and the sky is so beautiful. The sunsets are a must see when you are in the area.
+---------------------------
+response 6:
+Write a passage about sunsets with a functional writing style:
+
+The sun is setting. The sky is red and orange. The clouds are pink. The sun is setting. The sky is red and orange. The clouds are pink. The sun is setting. The sky is red and orange. The clouds are pink. The sun is setting. The sky is red and orange. The clouds are pink. The sun is setting. The sky is red and orange. The clouds are pink. The sun is setting. The sky is red and orange. The clouds are pink.
+---------------------------
+response 7:
+Write a passage about sunsets with a functional writing style:
+
+The sun slowly dips below the horizon, painting the sky in a spectrum of oranges, pinks, and purples. As the last sliver of light disappears, the world is cast into a deep blue hue, punctuated only by the stars and the moon. It's a moment of peace, when the hustle and bustle of the day fades away and all that's left is the beauty of nature.
+---------------------------
+response 8:
+Write a passage about sunsets with a functional writing style:
+
+The sun slowly sinks down behind the horizon, casting a beautiful orange hue in the sky. The cool breeze picks up, and the birds start to chirp. The perfect end to a perfect day.
+---------------------------
+response 9:
+Write a passage about sunsets with a functional writing style:
+
+The sun sets in the sky, casting a beautiful orange hue. The colors are simply stunning, making the sky look like a work of art. The sun slowly disappears, leaving behind a gorgeous sky.
+---------------------------
